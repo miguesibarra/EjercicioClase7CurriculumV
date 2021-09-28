@@ -1,0 +1,34 @@
+h1, h2, h3{
+font-family: 'Times New Roman', Times, serif;
+background-color: #C4C4C4;
+color: #005677;
+font-weight: 700;
+}
+
+.datos {
+font-style: italic;
+font-weight: bold;
+}
+
+.ano{
+font-weight: bold;    
+}
+
+#logo {
+margin: 0 auto;
+
+}
+header {
+width: 100%;
+text-align: center;
+}
+
+footer{
+background-color: #005677;
+text-align: center;
+}
+footer h2 {
+display: inline-block;
+color: white;
+background-color: transparent;
+}
