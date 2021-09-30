@@ -36,6 +36,8 @@ background-color: transparent;
 }
 
 #presentacion {
-text-align: center;
 font-size: large;
+text-align: center;
+margin-left: 15%;
+margin-right: 15%;
 }
